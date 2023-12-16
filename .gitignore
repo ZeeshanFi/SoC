@@ -5,6 +5,6 @@
 *.out
 
 #Ignore compiled Python files
-*,pyc
+*.pyc
 
 
